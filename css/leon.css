@@ -692,7 +692,8 @@ html {
    }
    .special-heading +p {
 
-      font-size: 12px;
+      font-size: 13px;
+      font-weight: bold;
    }
 
    .contact .info .label {
@@ -701,7 +702,7 @@ html {
    }
    
 }
-
+ 
 @media (max-width:375px) {
 
    .contact .info .label {
